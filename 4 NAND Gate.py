@@ -4,5 +4,5 @@ def NAND(A, B):
         nand = 0
     else:
         nand = 1
-    # Your code goes here!
+        
     return nand
