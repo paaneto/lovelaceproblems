@@ -2,6 +2,6 @@ def moose_body_mass(latitude):
     mass = 0
     a = 2.757
     b = 16.793
-    mass = a*latitude+bre!
+    mass = a*latitude+b
 
     return mass
